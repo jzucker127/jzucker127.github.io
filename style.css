@@ -1,13 +1,13 @@
 /* this is a comment in CSS */
 body {
 	/*font-family is a modifier in CSS */
-	background-color: red;
+	background-color: #cc99ff;
 	font-size: 50px;
 	font-family: sans-serif;
 	/* em is relative to the size of your font */
 	line-height: 1.61em;
 	padding: 30px;
-	border: 30px solid blue;
+	border: 30px #6699ff;
 	margin: 50px;
 }
 
