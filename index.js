@@ -6,7 +6,7 @@ $(document).ready(function() {
   	// click is going inside the function
 	// passing a function into a function
 	$('.inline-code').on('click', function() {
-	  $(this).html('wow lol');
+	  $(this).html('it is a feminist place');
 	});
 
 	$('h3').on('mouseover', function() {
