@@ -1,0 +1,25 @@
+/* this is a comment in CSS */
+body {
+	/*font-family is a modifier in CSS */
+	background-color: red;
+	font-size: 50px;
+	font-family: sans-serif;
+	/* em is relative to the size of your font */
+	line-height: 1.61em;
+	padding: 30px;
+	border: 30px solid blue;
+	margin: 50px;
+}
+
+h1 {
+	font-size: 72px;
+	text-align: center;
+}
+
+p {
+	font-size: 50px;
+}
+
+.purple {
+	color: blue;
+}
